@@ -1,0 +1,127 @@
+{
+  "schema": 1,
+  "repository": "ZUMBYTE-AppSolution/serverdesk-plugins",
+  "sequence": 5,
+  "generatedAt": "2026-11-12T10:14:30.658Z",
+  "plugins": [
+    {
+      "id": "de.zumbyte.remote",
+      "name": "Zumbyte Remote",
+      "publisher": "Zumbyte - AppSolution",
+      "description": "Deine Computer über den eigenen Remote-Server erreichen. Bildschirm, Maus und Tastatur direkt in ServerDesk.",
+      "icon": "https://raw.githubusercontent.com/ZUMBYTE-AppSolution/serverdesk-plugins/main/assets/zumbyte-remote.png",
+      "versions": [
+        {
+          "version": "0.3.0-alpha.3",
+          "channel": "preview",
+          "hostApi": {
+            "min": 1,
+            "max": 1
+          },
+          "runtime": "serverdesk.web-provider/1",
+          "platforms": [
+            "win-x64",
+            "osx-arm64",
+            "osx-x64",
+            "linux-x64"
+          ],
+          "hostIntegration": "requires-plugin-host-api-1",
+          "package": {
+            "url": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.3/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.3.zip",
+            "size": 46773590,
+            "sha256": "56d39c79c9d348abf8c01a63383e8f85faf0f6d07a2258f3586e1eb12d984e31"
+          },
+          "changelogUrl": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/tag/zumbyte-remote-v0.3.0-alpha.3"
+        },
+        {
+          "version": "0.3.0-alpha.2",
+          "channel": "preview",
+          "hostApi": {
+            "min": 1,
+            "max": 1
+          },
+          "runtime": "serverdesk.web-provider/1",
+          "platforms": [
+            "win-x64",
+            "osx-arm64",
+            "osx-x64",
+            "linux-x64"
+          ],
+          "hostIntegration": "requires-plugin-host-api-1",
+          "package": {
+            "url": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.2/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.2.zip",
+            "size": 46774805,
+            "sha256": "6c414bd847fdf3b0c090b8c79c16765e0f3eba911891af6ac6c2e2341cad12e8"
+          },
+          "changelogUrl": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/tag/zumbyte-remote-v0.3.0-alpha.2"
+        },
+        {
+          "version": "0.3.0-alpha.1",
+          "channel": "preview",
+          "hostApi": {
+            "min": 1,
+            "max": 1
+          },
+          "runtime": "serverdesk.web-provider/1",
+          "platforms": [
+            "win-x64",
+            "osx-arm64",
+            "osx-x64",
+            "linux-x64"
+          ],
+          "hostIntegration": "requires-plugin-host-api-1",
+          "package": {
+            "url": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.1/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.1.zip",
+            "size": 46774756,
+            "sha256": "9d5127f211551cfa61586a75e617f64a97d2b4b42e343cc10af252e07ddd8b05"
+          },
+          "changelogUrl": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/tag/zumbyte-remote-v0.3.0-alpha.1"
+        },
+        {
+          "version": "0.2.0-alpha.2",
+          "channel": "preview",
+          "hostApi": {
+            "min": 1,
+            "max": 1
+          },
+          "runtime": "serverdesk.web-provider/1",
+          "platforms": [
+            "win-x64",
+            "osx-arm64",
+            "osx-x64",
+            "linux-x64"
+          ],
+          "hostIntegration": "requires-plugin-host-api-1",
+          "package": {
+            "url": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.2.0-alpha.2/ZumbyteRemote-ServerDesk-Plugin-0.2.0-alpha.2.zip",
+            "size": 46654723,
+            "sha256": "6c82d05dc9422797ecffaac0ba25ea40fdf222562c5918cbb98259c74969677f"
+          },
+          "changelogUrl": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/tag/zumbyte-remote-v0.2.0-alpha.2"
+        },
+        {
+          "version": "0.2.0-alpha.1",
+          "channel": "preview",
+          "hostApi": {
+            "min": 1,
+            "max": 1
+          },
+          "runtime": "serverdesk.web-provider/1",
+          "platforms": [
+            "win-x64",
+            "osx-arm64",
+            "osx-x64",
+            "linux-x64"
+          ],
+          "hostIntegration": "requires-plugin-host-api-1",
+          "package": {
+            "url": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.2.0-alpha.1/ZumbyteRemote-ServerDesk-Plugin-0.2.0-alpha.1.zip",
+            "size": 46647183,
+            "sha256": "18c9370f1c0be919d3a66829d17affe46b88c9c0eeb59cd16113a8513ae72565"
+          },
+          "changelogUrl": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/tag/zumbyte-remote-v0.2.0-alpha.1"
+        }
+      ]
+    }
+  ]
+}
