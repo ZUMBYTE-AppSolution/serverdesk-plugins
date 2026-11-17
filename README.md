@@ -21,3 +21,7 @@ In ServerDesk **Einstellungen → Plugins** öffnen, den offiziellen Katalog aus
 Katalog und Pakete werden ohne GitHub-Anmeldung geladen. Vor der Installation prüft ServerDesk Signatur und Prüfsumme.
 
 **Zumbyte – AppSolution · [www.zumbyte.de](https://www.zumbyte.de/)**
+
+## Windows-Hilfsprogramme
+
+Ab Plugin **0.3.0-alpha.4** sind die Windows-Hilfsprogramme digital signiert. Verifizierter Herausgeber: **Andreas Zumbansen**. Vor dem Update laufende Remote-Tabs schließen; Serverprofile und gespeicherte Zugänge bleiben erhalten.
