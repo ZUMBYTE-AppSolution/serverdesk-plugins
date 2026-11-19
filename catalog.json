@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "repository": "ZUMBYTE-AppSolution/serverdesk-plugins",
-  "sequence": 7,
-  "generatedAt": "2026-11-18T16:35:27.578Z",
+  "sequence": 8,
+  "generatedAt": "2026-11-19T14:18:19.236Z",
   "plugins": [
     {
       "id": "de.zumbyte.remote",
@@ -11,6 +11,28 @@
       "description": "Deine Computer über den eigenen Remote-Server erreichen. Bildschirm, Maus und Tastatur direkt in ServerDesk.",
       "icon": "https://raw.githubusercontent.com/ZUMBYTE-AppSolution/serverdesk-plugins/main/assets/zumbyte-remote.png",
       "versions": [
+        {
+          "version": "0.3.0-alpha.7",
+          "channel": "preview",
+          "hostApi": {
+            "min": 1,
+            "max": 1
+          },
+          "runtime": "serverdesk.web-provider/1",
+          "platforms": [
+            "win-x64",
+            "osx-arm64",
+            "osx-x64",
+            "linux-x64"
+          ],
+          "hostIntegration": "requires-plugin-host-api-1",
+          "package": {
+            "url": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.7/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.7.zip",
+            "size": 50609927,
+            "sha256": "f1574eabebd9e1b0672f7e5d9741d90f690cbc0e15d296e0984eb8f83edd97f5"
+          },
+          "changelogUrl": "https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/tag/zumbyte-remote-v0.3.0-alpha.7"
+        },
         {
           "version": "0.3.0-alpha.5",
           "channel": "preview",
