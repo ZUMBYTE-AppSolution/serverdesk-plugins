@@ -3,9 +3,13 @@
 
 | Plugin | Version | Download |
 |---|---|---|
-| zRemote | 0.3.0 Alpha 8 | [Plugin herunterladen](https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.8/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.8.zip) |
+| zRemote | 0.3.0 Alpha 9 | [Plugin herunterladen](https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.9/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.9.zip) |
 
-zRemote verbindet ServerDesk mit deinem eigenen Remote-Server. Auf dem Zielcomputer muss [zRemote](https://github.com/ZUMBYTE-AppSolution/zumbyte-remote-release/releases) eingerichtet sein. Für Chat, Links und Dateianhänge bitte ServerDesk ab **Beta 27** verwenden und auch den Remote-Server und das Zielgerät auf **Alpha 8** aktualisieren.
+zRemote verbindet Computer direkt über eine feste neunstellige ID und ein Einmal- oder Dauerpasswort. Ein Konto und ein eigener Remote-Server sind dafür optional. Auf dem Zielcomputer muss [zRemote](https://github.com/ZUMBYTE-AppSolution/zumbyte-remote-release/releases) eingerichtet sein.
+
+Für ID-Verbindungen bitte **ServerDesk Beta 28**, das **zRemote-Plugin Alpha 9** und eine aktuelle zRemote-Gegenstelle verwenden. Unter **Verbindungen → Mit zRemote-ID verbinden** stehen auch die eigene ID, das Einmalpasswort und die Zugriffseinstellungen. Eigene Remote-Server bleiben zusätzlich nutzbar.
+
+Am Zielcomputer lässt sich jede Verbindung mit eigenen Rechten annehmen. Dauerhaft erlaubte Gegenstellen sind später änderbar. Ein kleines Fenster erlaubt während einer Freigabe das Sperren einzelner Funktionen und das Trennen der Verbindung. Auf dem Mac wird für die Freigabe dieses Computers die installierte zRemote-App benötigt.
 
 Der Chat zeigt eigene und empfangene Nachrichten in unterschiedlichen Sprechblasen mit Uhrzeit und Zustellstatus. Links öffnen sich im Browser. Dateien werden mit Fortschritt übertragen und lassen sich gezielt speichern. Chat und Dateien gehen direkt von Computer zu Computer.
 
