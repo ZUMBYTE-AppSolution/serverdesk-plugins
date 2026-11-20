@@ -3,11 +3,11 @@
 
 | Plugin | Version | Download |
 |---|---|---|
-| zRemote | 0.3.0 Alpha 9 | [Plugin herunterladen](https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.9/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.9.zip) |
+| zRemote | 0.3.0 Alpha 10 | [Plugin herunterladen](https://github.com/ZUMBYTE-AppSolution/serverdesk-plugins/releases/download/zumbyte-remote-v0.3.0-alpha.10/ZumbyteRemote-ServerDesk-Plugin-0.3.0-alpha.10.zip) |
 
 zRemote verbindet Computer direkt über eine feste neunstellige ID und ein Einmal- oder Dauerpasswort. Ein Konto und ein eigener Remote-Server sind dafür optional. Auf dem Zielcomputer muss [zRemote](https://github.com/ZUMBYTE-AppSolution/zumbyte-remote-release/releases) eingerichtet sein.
 
-Für ID-Verbindungen bitte **ServerDesk Beta 28**, das **zRemote-Plugin Alpha 9** und eine aktuelle zRemote-Gegenstelle verwenden. Unter **Verbindungen → Mit zRemote-ID verbinden** stehen auch die eigene ID, das Einmalpasswort und die Zugriffseinstellungen. Eigene Remote-Server bleiben zusätzlich nutzbar.
+Für ID-Verbindungen bitte **ServerDesk Beta 28**, das **zRemote-Plugin Alpha 10** und eine aktuelle zRemote-Gegenstelle verwenden. Unter **Verbindungen → Mit zRemote-ID verbinden** stehen auch die eigene ID, das Einmalpasswort und die Zugriffseinstellungen. Eigene Remote-Server bleiben zusätzlich nutzbar.
 
 Am Zielcomputer lässt sich jede Verbindung mit eigenen Rechten annehmen. Dauerhaft erlaubte Gegenstellen sind später änderbar. Ein kleines Fenster erlaubt während einer Freigabe das Sperren einzelner Funktionen und das Trennen der Verbindung. Auf dem Mac wird für die Freigabe dieses Computers die installierte zRemote-App benötigt.
 
